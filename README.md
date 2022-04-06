@@ -1,7 +1,7 @@
 ### Olá! Sou @MatheusGuimarães1 👋
 
 - 📚 Hoje sou estudante de ADS
-- 👨‍💻 Estudando HTML5, CSS3, Javascrip e React
+- 👨‍💻 Estudando HTML5, CSS3, Javascript e Ruby
 - 😁 Pronomes: ele/dele
 
 <div align="center">
