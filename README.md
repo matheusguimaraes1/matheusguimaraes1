@@ -1,7 +1,7 @@
 ### Olá! Sou @MatheusGuimarães1 👋
 
-- 📚 Hoje sou estudante de ADS
-- 👨‍💻 Estudando HTML5, CSS3, Javascript, SQL e Ruby
+- 📚 Sou Dev Ruby on Rails
+- 👨‍💻 Ruby on Rails | Git | Javascript | HTML | CSS |  MySQL | PostgreSQL
 - 😁 Pronomes: ele/dele
 
 <div align="center">
