@@ -1,6 +1,6 @@
 ### Olá! Sou @MatheusGuimarães1 👋
 
-- 👨‍💻 Ruby| Git | Python | PL/SQL (Oracle) | SQL Server |  MySQL |
+- 👨‍💻 Ruby on Rails | Java | Python| Git  | PL/SQL (Oracle) | SQL Server |  MySQL |
 - 😁 Pronomes: ele/dele
 
 <div align="center">
